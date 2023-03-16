@@ -1,0 +1,17 @@
+.thumbnails-li-container {
+  width: 100px;
+  margin-right: 18px;
+  margin-bottom: 18px;
+}
+
+.thumbnail-button {
+  padding: 0;
+  background-color: transparent;
+  width: 100%;
+  border-width: 0;
+  cursor: pointer;
+}
+
+.thumbnail {
+  width: 100%;
+}
